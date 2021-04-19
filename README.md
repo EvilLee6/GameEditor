@@ -1,1 +1,2 @@
-C++MFC 游戏修改器
+#GameEditor
+基于MFC的C++游戏修改器
